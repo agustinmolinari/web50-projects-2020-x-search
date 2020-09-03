@@ -1,0 +1,148 @@
+.box1 {
+    width: 40%;
+    height: 40px;
+    border: 1px lightgray solid;
+    position: absolute;
+    top: 20%;
+    right: 40%; 
+    text-align: left;
+
+}
+
+.box1:hover{
+    border: 1px blue solid;
+    box-shadow: 1px 1px 1px 0 rgba(187, 187, 187, 0.2), 1px 1px 1px 0 rgba(139, 139, 139, 0.19);
+
+}
+
+.box2 {
+    width: 40%;
+    height: 40px;
+    border: 1px lightgray solid;
+    position: absolute;
+    top: 30%;
+    right: 40%;
+    text-align: left;
+
+}
+
+.box2:hover{
+    border: 1px blue solid;
+    box-shadow: 1px 1px 1px 0 rgba(187, 187, 187, 0.2), 1px 1px 1px 0 rgba(139, 139, 139, 0.19);
+
+}
+
+.box3 {
+    width: 40%;
+    height: 40px;
+    border: 1px lightgray solid;
+    position: absolute;
+    top: 40%;
+    right: 40%;
+    text-align: left;
+
+}
+
+.box3:hover{
+    border: 1px blue solid;
+    box-shadow: 1px 1px 1px 0 rgba(187, 187, 187, 0.2), 1px 1px 1px 0 rgba(139, 139, 139, 0.19);
+
+}
+
+.box4 {
+    width: 40%;
+    height: 40px;
+    border: 1px lightgray solid;
+    position: absolute;
+    top: 50%;
+    right: 40%;
+    text-align: left;
+
+}
+
+.box4:hover{
+    border: 1px blue solid;
+    box-shadow: 1px 1px 1px 0 rgba(187, 187, 187, 0.2), 1px 1px 1px 0 rgba(139, 139, 139, 0.19);
+
+}
+
+.button {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    text-align: center;
+    height: 40px;
+    width: 10%;
+    border-radius: 4px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.button:hover{
+    border: 1px darkgray solid;
+
+}
+
+.advance{
+    position: absolute;
+    left: 90%;
+    top: 60px;
+    font-size: 18px;
+}
+
+.index{
+    position: absolute;
+    left: 90%;
+    top: 20px;
+    font-size: 18px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+div{
+    margin-top: 40px;
+    height: 400px;
+    display: block;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+
+.label1{
+position: absolute;
+top: 22%;
+left: 5%;
+text-align: left;
+}
+
+.label2{
+    position: absolute;
+    top: 32%;
+    left: 5%;
+    text-align: left;
+}
+
+.label3{
+    position: absolute;
+    top: 42%;
+    left: 5%;
+    text-align: left;
+}
+
+.label4{
+    position: absolute;
+    top: 52%;
+    left: 5%;
+    text-align: left;
+}
